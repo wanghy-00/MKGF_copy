@@ -13,7 +13,7 @@ We present the source code and release the data.
   - [Method](#Method)
 
 ## Overview
-![MKGF](MKGF.jpg)
+<img src="https://raw.githubusercontent.com/ehnal/MKGF/main/MKGF.jpg"/>
 
 Medical visual question answering(MedVQA) is a challenging task that requires models to understand medical images and return accurate responses for the given questions. Most recent methods focus on transferring general-domain large vision-language models (LVLMs) to the medical domain by constructing medical instruction datasets and in-context learning. However,the performance of these methods are limited due to the hallucination issue of LVLMs. In addition.fine-tuning the abundant parameters of LVLMs on medical instruction datasets is high time andeconomic cost. Hence, we propose a MKGF framework that leverages a multi-modal medicaknowledge graph (MMKG) to relieve the hallucination issue without fine-tuning the abundant parameters of LVLMs. Firstly, we employ a pre-trained text retriever to build question-knowledge relations on training set. Secondly, we train a multi-modal retriever with these relations. Finally, we use it to retrieve question-relevant knowledge and enhance the performance of LVLMs on the test set. To evaluate the effectiveness of MKGF,we conduct extensive experiments on two public datasets Slake and VQA-RAD.
 
