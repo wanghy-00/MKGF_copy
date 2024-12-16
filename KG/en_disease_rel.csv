@@ -1,0 +1,307 @@
+disease#attribute#value
+Alveolar Proteinosis#locate in#Lung
+Pertussis#locate in#Respiratory System
+Asthmatoid Bronchitis#locate in#Bronchial Tube
+Lobar Pneumonia#locate in#Lung
+Pulmonary Actinomycosis#locate in#Lung
+Radiation Pneumonia#locate in#Lung
+Pulmonary Candidiasis#locate in#Lung
+Pulmonary Bullae#locate in#Lung
+Emphysema#locate in#Lung
+Pulmonary Abscess#locate in#Lung
+Pulmonary Embolism#locate in#Lung
+Pneumonia#locate in#Lung
+Pulmonary Edema#locate in#Lung
+Lung Cancer#locate in#Lung
+Respiratory Failure#locate in#Respiratory System
+Acute Respiratory Distress Syndrome#locate in#Respiratory System
+Tracheal Neoplasms#locate in#Trachea
+Tracheal And Bronchial Stenosis#locate in#Trachea
+Osahs#locate in#Respiratory System
+Silicosis#locate in#Lung
+Asthma#locate in#Respiratory System
+Bacterial Pneumonia#locate in#Lung
+Chlamydia Pneumonia#locate in#Lung
+Mycoplasma Pneumonia#locate in#Lung
+Bronchiectasia#locate in#Bronchial Tube
+Single Ventricle#locate in#Heart
+Single Atrium#locate in#Heart
+Arteriosclerosis#locate in#Artery
+Aneurysm#locate in#Artery
+Mitral Insufficiency#locate in#Heart
+Mitral Stenosis#locate in#Heart
+Hypertrophic Obstructive Cardiomyopathy#locate in#Heart
+Hypertrophic Cardiomyopathy#locate in#Heart
+Pulmonary Arteriovenous Fistula#locate in#Lung
+Coronary Heart Disease#locate in#Heart
+Tricuspid Stenosis#locate in#Heart
+Tricuspid Insufficiency#locate in#Heart
+Atrial Fibrillation#locate in#Heart
+Hemangioma#locate in#Capillary
+Angina Pectoris#locate in#Heart
+Miocardial Infarction#locate in#Heart
+Pericardial Cyst#locate in#Heart
+Pericardial Neoplasms#locate in#Heart
+Left Ventricular Dysplasia#locate in#Heart
+Aortic Aneurysm#locate in#Artery
+Amiba Hepatic Abscess#locate in#Liver
+Constipation#locate in#Digestive System
+Volvulus#locate in#Large Intestine
+Cholelithiasis#locate in#Gallbladder
+Cholangiocarcinoma#locate in#Gallbladder
+Colorectal Carcinoid#locate in#Large Intestine
+Colorectal Cancer#locate in#Large Intestine
+Hepatic Fibrosis#locate in#Liver
+Hepatic Abscess#locate in#Liver
+Hepatic Adenoma#locate in#Liver
+Hepatic Cyst#locate in#Liver
+Hepatic Hemangioma#locate in#Liver
+Colon Cancer#locate in#Large Intestine
+Alcoholic Liver Disease#locate in#Liver
+Calculous Cholecystitis#locate in#Gallbladder
+Colon Injury#locate in#Large Intestine
+Splenic Rupture#locate in#Spleen
+Esophageal Cancer#locate in#Esophagus
+Leiomyoma Of Esophagus#locate in#Esophagus
+Gastric Cancer#locate in#Stomach
+Gastrocardiac Syndrome#locate in#Stomach
+Gastrocardiac Syndrome#locate in#Heart
+Gastric Injury#locate in#Stomach
+Gastroptosis#locate in#Stomach
+Gastric Leiomyosarcoma#locate in#Stomach
+Stomach Trouble#locate in#Stomach
+Benign Tumors Of Stomach#locate in#Stomach
+Mesenteric Injury Of Small Intestine#locate in#Mesentery
+Gastropathy Of Drugs#locate in#Stomach
+Drug-Induced Liver Disease#locate in#Liver
+Primary Liver Cancer#locate in#Liver
+Fatty Liver#locate in#Liver
+Polycystic Kidney#locate in#Kidney
+Bladder Cancer#locate in#Bladder
+Ureteral Injury#locate in#Ureter
+Renal Injury#locate in#Kidney
+Renal Cyst#locate in#Kidney
+Renal Cell Carcinoma#locate in#Kidney
+Arao#locate in#Kidney
+Fibrous Cavernositis Of Penis#locate in#Penis
+Alzheimer Disease#locate in#Brain
+Transient Ischemic Attack#locate in#Brain
+Spinal Cord Vasculopathy#locate in#Spinal Cord
+Cerebral Hemorrhage#locate in#Brain
+Cerebral Thrombosis#locate in#Brain
+Cerebral Arteriosclerosis#locate in#Brain
+Brain Abscess#locate in#Brain
+Cerebral Palsy Syndrome#locate in#Brain
+Parkinson'S Disease#locate in#Nervous System
+Radiation Injury Of Nervous System#locate in#Nervous System
+Motor Neuron Disease#locate in#Nervous System
+Neurilemoma Of Pharynx#locate in#Pharynx
+Simple Goiter#locate in#Thyroid
+Osteoporosis#locate in#Skeleton
+Thyroid Adenoma#locate in#Thyroid
+Gigantism And Acromegaly#locate in#Endocrine System
+Tracheobronchial Foreign Body#locate in#Trachea
+Tracheobronchial Foreign Body#locate in#Bronchial Tube
+Hyperplasia Of Mammary Glands#locate in#Breast
+Mammary Cancer#locate in#Breast
+Pineal Tumors#locate in#Pineal Gland
+Surgical Lymphangioma#locate in#Lymph Vessel
+Thymoma#locate in#Thymus
+Diseases Of Hypothaiamus#locate in#Brain
+Insulinoma#locate in#Islets
+Multiple Myeloma#locate in#Bone Marrow
+Malignant Lymphoma#locate in#Lymph
+Myelofibrosis#locate in#Bone Marrow
+Hodgkin Lymphoma#locate in#Lymph
+Congestive Splenomegaly#locate in#Spleen
+Ankylosing Spondylitis#locate in#Spine
+Breast Fibroma#locate in#Breast
+Sternal Fracture#locate in#Skeleton
+Primary Cardiac Tumors#locate in#Heart
+Lateral Ventricular Tumors#locate in#Ventricle
+Tumors Of The Fourth Ventricle#locate in#Ventricle
+Multiple Intracranial Hematoma#locate in#Brain
+Third Ventricular Tumors#locate in#Ventricle
+Cervical Canal Stenosis#locate in#Skeleton
+Spina Bifida#locate in#Spine
+Osteomyelitis Of Skull#locate in#Brain
+Intracranial Aneurysm#locate in#Brain
+Cerebral Hernia#locate in#Brain
+Intraventricular Hemorrhage#locate in#Ventricle
+Cerebrospinal Fluid Leakage#locate in#Brain
+Hydrocephalus#locate in#Brain
+Meningioma#locate in#Brain
+Apoplexy#locate in#Brain
+Gallbladder Cancer#locate in#Gallbladder
+Gallstone#locate in#Gallbladder
+Pancreatic Cancer#locate in#Pancreas
+Pancreatic Cyst#locate in#Pancreas
+Pancreatic Abscess#locate in#Pancreas
+Prostatic Cancer#locate in#Prostate
+Renal Cortical Abscess#locate in#Kidney
+Perirenal Abscess#locate in#Kidney
+Renal Pelvic Carcinoma#locate in#Kidney
+Renal Carcinoma#locate in#Kidney
+Colonic Lipoma#locate in#Large Intestine
+Rectal Cancer#locate in#Large Intestine
+Patella Fracture#locate in#Joint
+Patellomalacia#locate in#Joint
+Fracture Of Nasal Bone#locate in#Nose
+Fracture#locate in#Skeleton
+Dislocate in Of Joint#locate in#Joint
+Calcaneal Fracture#locate in#Skeleton
+Humeral Shaft Fracture#locate in#Skeleton
+Pelvic Fracture#locate in#Skeleton
+Jaw Fracture#locate in#Skeleton
+Syringomyelia#locate in#Spinal Cord
+Spinal Cord Tumors#locate in#Spinal Cord
+Poliomyelitis#locate in#Spinal Cord
+Temporal Bone Fracture#locate in#Skeleton
+Temporomandibular Dislocate in#locate in#Joint
+Temporomandibular Ankylosis#locate in#Joint
+Zygomatic Fracture#locate in#Skeleton
+Clavicle Fracture#locate in#Skeleton
+Orbital Fracture#locate in#Eye
+Metatarsal And Phalangeal Fractures#locate in#Skeleton
+Nasal Hemangioma#locate in#Nose
+Breast Fibroadenoma#locate in#Heart
+Nasopharyngeal Carcinoma#locate in#Pharynx
+Nasopharyngeal Sarcoma#locate in#Pharynx
+Angiofibroma Of Nasopharynx#locate in#Pharynx
+Cervical Carcinoma#locate in#Uterus
+Testicular Neoplasms#locate in#Testis
+Laryngeal Cancer#locate in#Throat
+Thyroid Cancer#locate in#Thyroid
+Oophoroma#locate in#Ovary
+Lymphangioma#locate in#Lymph Vessel
+Tongue Cancer#locate in#Tongue
+Small Intestinal Tumor#locate in#Small Intestine
+Penile Cancer#locate in#Penis
+Vaginal Malignant Tumors#locate in#Vagina
+Endometrial Cancer#locate in#Uterus
+Middle Ear Cancer#locate in#Middle Ear
+Retinopathy Of Prematurity#locate in#Retina
+Bullous Keratopathy#locate in#Corneal
+Myopic Eye#locate in#Eye
+Keratopathy#locate in#Corneal
+Stromal Keratitis#locate in#Corneal
+Glaucoma#locate in#Eye
+Retinal Detachment#locate in#Retina
+Hyperopia#locate in#Eye
+Pharyngeal Vascular Malformation#locate in#Pharynx
+Heart Disease#locate in#Heart
+Coronavirus Infections#locate in#Lung
+Myelomyelitis#locate in#Spinal Cord
+Thyroid Nodules#locate in#Thyroid
+Intestinal Cancer#locate in#Large Intestine
+Gastritis#locate in#Stomach
+Gallstones#locate in#Gallbladder
+Pharyngitis#locate in#Pharynx
+Uterine Malignancy#locate in#Uterus
+Oral Hemangioma#locate in#Oral Cavity
+Cholangioma#locate in#Gallbladder
+Gastrointestinal Cancer#locate in#Stomach
+Gastrointestinal Cancer#locate in#Large Intestine
+Lipoma Of Breast#locate in#Breast
+Renal Aneurysm#locate in#Kidney
+Ductoma Of Breast#locate in#Breast
+Testicular Cancer#locate in#Testis
+Liver Cancer#locate in#Liver
+Thyroid Microcarcinoma#locate in#Thyroid
+Gastric Perforation#locate in#Stomach
+Splenomegaly#locate in#Spleen
+Thymic Cyst#locate in#Thymus
+Renal Abscess#locate in#Kidney
+Breast Cyst#locate in#Breast
+Gastric Malignant Lymphoma#locate in#Lymph
+Pulmonary Fibrosis#locate in#Lung
+Brain Edema#locate in#Brain
+Renal Neoplasms#locate in#Kidney
+Testicular Cyst#locate in#Testis
+Bone Cancer#locate in#Skeleton
+Small Intestinal Hemangioma#locate in#Small Intestine
+Small Intestinal Lipoma#locate in#Small Intestine
+Memory Impairment#locate in#Brain
+Cerebellar Atrophy#locate in#Cerebellum
+Breast Mass#locate in#Breast
+Lipoma Of Large Intestine#locate in#Large Intestine
+Tumor Of Biliary Tract#locate in#Gallbladder
+Comminuted Fracture#locate in#Skeleton
+Biliary Tract Cancer#locate in#Gallbladder
+Nasal Neoplasms#locate in#Nose
+Liver Rupture#locate in#Liver
+Tonsil Cancer#locate in#Tonsils
+Lymphocarcinoma#locate in#Lymph
+Temporal Lobe Epilepsy#locate in#Brain
+Fissure#locate in#Skeleton
+Laryngeal Fibroma#locate in#Throat
+Pulmonary Arteriovenous Aneurysm#locate in#Lung
+Alcoholic Cirrhosis#locate in#Liver
+Epilepsy#locate in#Brain
+Spinal Fracture#locate in#Spine
+Lymphoma#locate in#Lymph
+Mouth Cancer#locate in#Oral Cavity
+Hepatic Aneurysm#locate in#Liver
+Liver Tumors#locate in#Liver
+Invasive Carcinoma Of Cervix#locate in#Uterus
+Adrenal Tumors#locate in#Adrenal Gland
+Bladder Squamous Cell Carcinoma#locate in#Bladder
+Ankle Fracture#locate in#Joint
+Renal Atrophy#locate in#Kidney
+Brain Cancer#locate in#Brain
+Seminal Vesicle Malignancy#locate in#Seminal Vesicle
+Brain Tumour#locate in#Brain
+Nasal Carcinoma#locate in#Nasal Cavity
+Nasal Cyst#locate in#Nasal Cavity
+Thyroid Neoplasms#locate in#Thyroid
+Pulmonary Nodules#locate in#Lung
+Uterine Cyst#locate in#Uterus
+Brain Cyst#locate in#Brain
+Encephalitis#locate in#Brain
+Small Intestinal Fibroma#locate in#Small Intestine
+Thyroid Cyst#locate in#Thyroid
+Cyst Of Bladder#locate in#Bladder
+Cyst Of Gallbladder#locate in#Gallbladder
+Alveolar Carcinoma#locate in#Lung
+Liver Stones#locate in#Liver
+Scrotal Cancer#locate in#Scrotum
+Laryngeal Carcinoma#locate in#Pharynx
+Phalangeal Fracture#locate in#Skeleton
+Esophageal Stromal Tumors#locate in#Esophagus
+Intestinal Neoplasms#locate in#Large Intestine
+Pineal Cell Tumor#locate in#Pineal Gland
+Breast Nodules#locate in#Breast
+Bronchiogenic Cyst#locate in#Bronchial Tube
+Cerebral Venous Aneurysm#locate in#Brain
+Mesenteric Aneurysm#locate in#Mesentery
+Esophageal Sarcoma#locate in#Esophagus
+Ovarian Tumor#locate in#Ovary
+Pulmonary Failure#locate in#Lung
+Hepatitis#locate in#Liver
+Brainstem Tumors#locate in#Brainstem
+Bladder Neoplasms#locate in#Bladder
+Splenic Aneurysm#locate in#Artery
+Splenic Cyst#locate in#Spleen
+Glioma#locate in#Brain
+Prostate Cyst#locate in#Prostate
+Mesenteric Cyst#locate in#Mesentery
+Gastric Neurofibroma#locate in#Stomach
+Gastric Ulcer#locate in#Stomach
+Fibrosarcoma Of Breast#locate in#Breast
+Congenital Diseases Of Nervous System#locate in#Nervous System
+Pancreatic Polypeptide Tumors#locate in#Pancreas
+Duodenal Ulcer#locate in#Duodenum
+Adenocarcinoma Of Duodenum#locate in#Duodenum
+Esophageal Carcinoid#locate in#Esophagus
+Esophageal Cyst#locate in#Esophagus
+Ureteral Neoplasms#locate in#Ureter
+Brain Atrophy#locate in#Brain
+Diabetic Retinopathy#locate in#Retina
+Cholecystitis#locate in#Gallbladder
+Atelectasis#locate in#Lung
+Cardiomegaly#locate in#Heart
+Pulmonary Infiltration#locate in#Lung
+Pulmonary Mass#locate in#Lung
+Pulmonary Nodules#locate in#Lung
+Pneumonia#locate in#Lung
+Pneumothorax#locate in#Lung
