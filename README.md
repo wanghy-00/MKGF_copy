@@ -39,14 +39,14 @@ Then install the environment in requirements.txt
 
 You can run the following script to run and evaluate our method on LLava-med-7B.
 ```
->>> cd LLaVA-Med
+>>> cd MKGF_llava
 >>> python llava_slake.py
 >>> python llava_rad.py
 ```
 
 You can run the following script to run and evaluate our method on HuatuoGPT-Vision-7B.
 ```
->>> cd HuatuoGPT-Vision
+>>> cd MKGF_huatuo
 >>> python huatuo_slake.py
 >>> python huatuo_rad.py
 ```
