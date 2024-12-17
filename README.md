@@ -29,17 +29,21 @@ The pictures in the knowledge graph will be given after the official submission 
 
 ## Method
 
-### Step 0 Prepare models and environment
+### Step 0 
+### Prepare models,dataest and environment
 Download the LVLMs LLava-med-7B or HuatuoGPT-Vision-7B in /model. 
 
 Download the model BGE and BiomedCLIP in /model. for retrieval.
+
+Download the dataest SLAKE in /dataest/SLAKE
 
 Then install the environment in requirements.txt
 ```
 >>> pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 ```
 
-### Step 1 Generate rationale
+### Step 1
+### Generate rationale
 You can run the following script to generate rationale based on SLAKE with GPT-4o.
 ```
 >>> cd rationale
@@ -47,14 +51,16 @@ You can run the following script to generate rationale based on SLAKE with GPT-4
 ```
 Or you can directly use the file we generated using GPT-4o(/rationale/SLAKE/slake_rationale.json)
 
-### Step 2 Train multimodal retriever
+### Step 2 
+### Train multimodal retriever
 You can run the following script to train a multimodal retriever based on BiomedCLIP
 ```
 >>> cd reranker
 >>> python -u main.py
 ```
 
-### Step 3 Run MKGF
+### Step 3
+### Run MKGF
 You can run the following script to run and evaluate our method on LLava-med-7B.
 ```
 >>> cd MKGF_llava
