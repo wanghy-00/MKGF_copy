@@ -18,7 +18,8 @@ We present the source code and release the data.
 We propose a MKGF framework that leverages a multi-modal medicaknowledge graph (MMKG) to relieve the hallucination issue without fine-tuning the abundant parameters of LVLMs. Firstly, we employ a pre-trained text retriever to build question-knowledge relations on training set. Secondly, we train a multi-modal retriever with these relations. Finally, we use it to retrieve question-relevant knowledge and enhance the performance of LVLMs on the test set. To evaluate the effectiveness of MKGF,we conduct extensive experiments on two public datasets Slake and VQA-RAD.
 
 ## Dataset
-To evaluate the effectiveness of the proposed MKGF framework, we conduct experiments on two public Med-VOA datasets:(1)Slake and (2)VQA-RAD.For Slake, we use its English version, which contains 642 radiology images and 7,033 question-answer pairs. For VQA-RAD, it contains 315 radiology images and 3,515 question–answer pairs.
+To evaluate the effectiveness of the proposed MKGF framework, we conduct experiments on two public Med-VOA datasets:(1)Slake and (2)VQA-RAD.
+For Slake, we use its English version, which contains 642 radiology images and 7,033 question-answer pairs. For VQA-RAD, it contains 315 radiology images and 3,515 question–answer pairs.
 
 ## MMKG
 We construct the MMKG based on a public medical knowledge graph (MKG), which has 52.6K triples of the head entity, relation and tail entity. 
