@@ -1,5 +1,5 @@
 # MKGF
-This is the official github repository for the paper "MKGF:AMulti-modal Knowledge Graph Based RAG Framework to Enhance LVLMs for Medical Visual Question Answering".
+This is the official github repository for the paper "MKGF:A Multi-modal Knowledge Graph Based RAG Framework to Enhance LVLMs for Medical Visual Question Answering".
 
 We present the source code and release the data.
 
