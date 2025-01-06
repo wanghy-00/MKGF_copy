@@ -13,7 +13,7 @@ We present the source code and release the data.
   - [Method](#Method)
 
 ## Overview
-![MKFG](https://raw.githubusercontent.com/ehnal/MKGF/main/MKFG.jpg)
+![MKFG](https://raw.githubusercontent.com/ehnal/MKGF/main/MKFG.jpg?timestamp=20250101)
 
 We propose a MKGF framework that leverages a multi-modal medicaknowledge graph (MMKG) to relieve the hallucination issue without fine-tuning the abundant parameters of LVLMs. Firstly, we employ a pre-trained text retriever to build question-knowledge relations on training set. Secondly, we train a multi-modal retriever with these relations. Finally, we use it to retrieve question-relevant knowledge and enhance the performance of LVLMs on the test set. To evaluate the effectiveness of MKGF,we conduct extensive experiments on two public datasets Slake and VQA-RAD.
 
