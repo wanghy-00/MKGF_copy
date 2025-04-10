@@ -60,8 +60,8 @@ def run(args):
 
     print("finish load")
 
-    device = "cuda:7"
-    model.to(device)
+    # device = "cuda:7"
+    # model.to(device)
     model.train()
 
     train_dataset = RetrieverDataset(args, tokenizer, image_processor, fold="train")
