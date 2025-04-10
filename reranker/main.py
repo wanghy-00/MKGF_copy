@@ -52,7 +52,7 @@ def run_cl(model, train_cl_dataloader, optimizer, device):
 
     # return model
 def run(args):
-    tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name,local_files_only=True)
     model = ColBERT()
 
     print("load_pretrain")
