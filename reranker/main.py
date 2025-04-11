@@ -173,7 +173,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset", type=str, default="medqa_usmle_hf", choices=["medqa_usmle_hf", "strategyqa", "obqa"])
     parser.add_argument("--data_dir", type=str, default="/root/nas/QA/Med-QA/SLAKE") # Auto-Set
-    parser.add_argument("--search_space_dir", type=str, default="/root/nas/QA/Med-QA/Reranker/search_spaces/medqa_usmle_hf-wikipedia/train") # Auto-Set
+    parser.add_argument("--search_space_dir", type=str, default="/kaggle/working/MKGF_copy/reranker/search_spaces/medqa_usmle_hf-wikipedia/train") # Auto-Set
     parser.add_argument("--knowledge_base", type=str, default="wikipedia", choices=["wikipedia", "pubmed"])
     parser.add_argument("--save_dir", type=str, default="colbert_lr1e-3")
     parser.add_argument("--model_name", type=str, default=None)
@@ -198,7 +198,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    args.model_name = "/root/nas/QA/Med-QA/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224"
+    args.model_name = "/kaggle/working/MKGF_copy/model/llava-med-v1.5-mistral-7b"
 
     print(f"Search Space: {args.search_space_dir}")
 
